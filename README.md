@@ -2,16 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 12 January 2023
+From: 08 October 2022 - To: 13 January 2023
 
-Total Time: 3 hrs 14 mins
+Total Time: 6 hrs 43 mins
 
-YAML         1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   40.37 %
-TypeScript   1 hr 16 mins    ██████████░░░░░░░░░░░░░░░   39.62 %
-JSON         24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
-PowerShell   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-SQL          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+TypeScript   4 hrs 17 mins   ████████████████░░░░░░░░░   63.75 %
+YAML         1 hr 38 mins    ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+JSON         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+PowerShell   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
