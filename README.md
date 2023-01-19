@@ -1,4 +1,49 @@
-<h1>Software developer in development...</h1>
+<h1>Hello!👋</h1>
+
+<p>I'm a software developer in development and coding is my passion.👨‍💻</p>
+
+<img align="center" alt="HTML" height="150" width="165" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<h1>About me</h1>
+
+<ul>
+
+<li><p>I'm 18 years old!👴</p></li>
+<li><p>I work at Iteris as an intern on their internship program "Decola".👨‍💻</p></li>
+<li><p>I am beign trained to be a back-end developer and work with Apollo GraphQL, TypeScript, ORMs, SQL and APIs in general.⌨️</p></li>
+
+</ul>
+<h1>My main tools and technologies</h1>
+                   
+<div style="display: inline_block"><br>
+
+  <img align="center" alt="HTML" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="CSS" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+  <img align="center" alt="Js" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Ts" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  
+  <img align="center" alt="React" height="50" width="65" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  
+  <img align="center" alt="Csharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  
+  <img align="center" alt="RCsharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  
+  <img align="center" alt="Csharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  
+  <img align="center" alt="RCsharp" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  
+  <img align="center" alt="RCsharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  
+</div>
+          
+          
+<h1>My activity</h1>
+
 <!--START_SECTION:waka-->
 
 ```text
