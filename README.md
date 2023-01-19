@@ -40,15 +40,19 @@
   
   <img align="center" alt="Csharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   
-  <img align="center" alt="RCsharp" height="70" width="85" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="RCsharp" height="70" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   
   <img align="center" alt="RCsharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   
 </div>
           
-          
-<h1>My activity</h1>
+<h1>My socials</h1>
+<div style="display: inline_block"><br>
+<a href="https://www.linkedin.com/in/viniciusnyp/" target="_blank"><img align="center" alt="RCsharp" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
 
+</div>
+
+<h1>My activity</h1>
 <!--START_SECTION:waka-->
 
 ```text
