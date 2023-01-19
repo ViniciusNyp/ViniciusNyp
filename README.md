@@ -2,7 +2,12 @@
 
 <p>I'm a software developer in development and coding is my passion.👨‍💻</p>
 
+<div style="display: inline_block"><br>
+
 <img align="center" alt="HTML" height="150" width="165" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<img align="center" alt="HTML" height="150" width="165" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952ixiw0lg7nj4rjxz4qqenlj1pal320hyhbcmav670&rid=200w.gif&ct=g">
+ </div>
 
 <h1>About me</h1>
 
