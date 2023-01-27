@@ -56,16 +56,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 October 2022 - To: 17 January 2023
+From: 26 January 2022 - To: 26 January 2023
 
-Total Time: 11 hrs 58 mins
+Total Time: 41 hrs 29 mins
 
-TypeScript   8 hrs 51 mins   ██████████████████▓░░░░░░   74.05 %
-YAML         1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
-JSON         1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-PowerShell   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
-INI          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+TypeScript   24 hrs 43 mins  ###############----------   59.59 %
+JSON         5 hrs 46 mins   ###----------------------   13.91 %
+YAML         4 hrs 28 mins   ###----------------------   10.78 %
+Docker       2 hrs 15 mins   #------------------------   05.44 %
+JavaScript   1 hr 15 mins    #------------------------   03.02 %
+Other        1 hr 10 mins    #------------------------   02.85 %
 ```
 
 <!--END_SECTION:waka-->
