@@ -56,12 +56,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2022 - To: 04 April 2023
+From: 05 April 2022 - To: 05 April 2023
 
-Total Time: 192 hrs 24 mins
+Total Time: 194 hrs 43 mins
 
-TypeScript   109 hrs 9 mins  ##############-----------   56.73 %
-Other        33 hrs 19 mins  ####---------------------   17.32 %
+TypeScript   109 hrs 22 mins ##############-----------   56.17 %
+Other        34 hrs 4 mins   ####---------------------   17.50 %
 ```
 
 <!--END_SECTION:waka-->
