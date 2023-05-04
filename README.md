@@ -15,7 +15,7 @@
 
 <li><p>I'm 19 years old!👴</p></li>
 <li><p>I'm working at Iteris, a software consulting company, where I'm honing my skills in developing high-performance applications. With a strong focus on teamwork and collaboration, I enjoy solving complex problems and delivering innovative solutions to meet customer needs.👨‍💻</p></li>
-<li><p>I am beign trained to be a back-end developer and work with Apollo GraphQL, TypeScript, ORMs, SQL and APIs in general.⌨️</p></li>
+<li><p>I have focus on back-end development and I work with Apollo GraphQL, TypeScript, ORMs, SQL and APIs in general.⌨️</p></li>
 
 </ul>
 <h1>My main tools and technologies</h1>
