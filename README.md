@@ -55,16 +55,16 @@
 <h1>My activity</h1>
 <!--START_SECTION:waka-->
 
-```text
-From: 01 June 2022 - To: 01 June 2023
+```txt
+From: 02 June 2022 - To: 02 June 2023
 
-Total Time: 393 hrs 10 mins
+Total Time: 395 hrs 21 mins
 
-TypeScript     194 hrs 33 mins ############-------------   49.48 %
-Other          131 hrs 44 mins ########-----------------   33.51 %
-JSON           18 hrs 43 mins  #------------------------   04.76 %
-YAML           11 hrs 48 mins  #------------------------   03.00 %
-Bash           7 hrs 59 mins   #------------------------   02.03 %
+TypeScript     195 hrs 14 mins ############-------------   49.38 %
+Other          133 hrs 14 mins ########-----------------   33.70 %
+JSON           18 hrs 43 mins  #------------------------   04.74 %
+YAML           11 hrs 48 mins  #------------------------   02.99 %
+Bash           7 hrs 59 mins   #------------------------   02.02 %
 ```
 
 <!--END_SECTION:waka-->
