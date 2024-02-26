@@ -72,15 +72,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2023 - To: 24 February 2024
+From: 25 February 2023 - To: 25 February 2024
 
-Total Time: 942 hrs 24 mins
+Total Time: 937 hrs 18 mins
 
-Other            536 hrs 52 mins ##############-----------   56.97 %
-TypeScript       279 hrs 54 mins #######------------------   29.70 %
-JavaScript       48 hrs 53 mins  #------------------------   05.19 %
-JSON             14 hrs 55 mins  -------------------------   01.58 %
-Bash             12 hrs 5 mins   -------------------------   01.28 %
+Other            536 hrs 51 mins ##############-----------   57.28 %
+TypeScript       275 hrs 53 mins #######------------------   29.43 %
+JavaScript       48 hrs 37 mins  #------------------------   05.19 %
+JSON             14 hrs 36 mins  -------------------------   01.56 %
+Bash             11 hrs 49 mins  -------------------------   01.26 %
 ```
 
 <!--END_SECTION:waka-->
