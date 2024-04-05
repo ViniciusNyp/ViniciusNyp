@@ -72,15 +72,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2023 - To: 03 April 2024
+From: 05 April 2023 - To: 04 April 2024
 
-Total Time: 963 hrs 29 mins
+Total Time: 965 hrs 1 min
 
-Other            583 hrs 40 mins ###############----------   60.58 %
-TypeScript       271 hrs 57 mins #######------------------   28.23 %
-JavaScript       49 hrs 29 mins  #------------------------   05.14 %
+Other            585 hrs 15 mins ###############----------   60.65 %
+TypeScript       273 hrs 3 mins  #######------------------   28.30 %
+JavaScript       49 hrs 41 mins  #------------------------   05.15 %
 GraphQL          10 hrs 48 mins  -------------------------   01.12 %
-JSON             9 hrs 22 mins   -------------------------   00.97 %
+JSON             8 hrs 53 mins   -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
