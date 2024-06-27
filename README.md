@@ -1,6 +1,6 @@
-<h1>Hello!👋</h1>
+<h1>Hi, I'm Vinícius! 👋</h1>
 
-<p>I'm a software engineer and coding is my passion.👨‍💻</p>
+<p> A Software Engineer dedicated to creating innovative, efficient, and robust solutions. 👨‍💻</p>
 
 <div style="display: inline_block"><br>
 
@@ -13,12 +13,11 @@
 
 <ul>
 
-<li><p>I'm 20 years old! 👴</p></li>
-<li><p>I'm working at Iteris, a software consulting company, where I'm honing my skills in developing high-performance applications. With a strong focus on teamwork and collaboration, I enjoy solving complex problems and delivering innovative solutions to meet customer needs. ⌨️</p></li>
-<li><p>I specialize in back-end development using Node.js, NestJS, GraphQL, TypeScript, and AWS services, including SNS, SQS, Lambda, and S3. My skills encompass designing REST and GraphQL APIs, microservices architecture, SQL and NoSQL databases, software engineering design principles and patterns, Docker containerization, and rigorous unit testing with tools like Jest. Additionally, I have proficiency in front-end development with React.js and also in back-end with other languages, such as Python, Java, and Go. 👨‍💻</p></li>
+<li><p>I’m a back-end specialist with extensive experience in Node.js, TypeScript, and AWS services. My skills include REST and GraphQL API design in multiple architectures and databases, software engineering design principles and patterns, containerization, and unit testing. Additionally, I’m front-end adept using React.js and have knowledge in other back-end languages such as Python, Java, and Go. ⌨️</p></li>
+<li><p> My autonomous and self-taught nature, coupled with a strong drive for learning, has led me to become adaptable and independently acquire a significant portion of my knowledge. Currently pursuing a degree in Analysis and Systems Development, I aim to create cutting-edge solutions to face complex challenges. 👨‍💻</p></li>
 
 </ul>
-<h1>My main tools and technologies</h1>
+<h1>My top tools and technologies</h1>
                    
 <div style="display: flex; align-items: center; justify-content: center;"><br>
   
