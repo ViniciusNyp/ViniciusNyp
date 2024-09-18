@@ -71,14 +71,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2023 - To: 16 September 2024
+From: 18 September 2023 - To: 17 September 2024
 
-Total Time: 800 hrs 56 mins
+Total Time: 803 hrs 17 mins
 
-Other               368 hrs 51 mins ############-------------   46.05 %
-TypeScript          299 hrs 23 mins #########----------------   37.38 %
-Python              33 hrs 38 mins  #------------------------   04.20 %
-JavaScript          26 hrs 49 mins  #------------------------   03.35 %
+Other               369 hrs 2 mins  ###########--------------   45.94 %
+TypeScript          301 hrs 2 mins  #########----------------   37.48 %
+Python              33 hrs 38 mins  #------------------------   04.19 %
+JavaScript          27 hrs 1 min    #------------------------   03.36 %
 GraphQL             17 hrs 24 mins  #------------------------   02.17 %
 ```
 
