@@ -71,15 +71,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2024 - To: 20 January 2025
+From: 23 January 2024 - To: 22 January 2025
 
-Total Time: 647 hrs 58 mins
+Total Time: 653 hrs 58 mins
 
-TypeScript          312 hrs 21 mins ############-------------   48.21 %
-Other               155 hrs 52 mins ######-------------------   24.06 %
-JavaScript          57 hrs 53 mins  ##-----------------------   08.93 %
-Python              34 hrs 39 mins  #------------------------   05.35 %
-JSON                25 hrs 13 mins  #------------------------   03.89 %
+TypeScript          317 hrs 11 mins ############-------------   48.50 %
+Other               153 hrs 23 mins ######-------------------   23.46 %
+JavaScript          59 hrs 49 mins  ##-----------------------   09.15 %
+Python              34 hrs 45 mins  #------------------------   05.32 %
+JSON                25 hrs 56 mins  #------------------------   03.97 %
 ```
 
 <!--END_SECTION:waka-->
