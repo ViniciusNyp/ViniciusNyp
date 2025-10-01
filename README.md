@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vinícius! 👋</h1>
 
-<p> A Software Engineer dedicated to creating innovative, efficient, and robust solutions. 👨‍💻</p>
+<p>A Full Stack Software Engineer with strong experience in building scalable, efficient, and resilient systems. 👨‍💻</p>
 
 <div style="display: inline_block"><br>
 
@@ -13,8 +13,9 @@
 
 <ul>
 
-<li><p>I’m a back-end specialist with extensive experience in Node.js, TypeScript, and AWS services. My skills include REST and GraphQL API design in multiple architectures and databases, software engineering design principles and patterns, containerization, and unit testing. Additionally, I’m front-end adept using React.js and have knowledge in other back-end languages such as Python, Java, and Go. ⌨️</p></li>
-<li><p> My autonomous and self-taught nature, coupled with a strong drive for learning, has led me to become adaptable and independently acquire a significant portion of my knowledge. Currently pursuing a degree in Analysis and Systems Development, I aim to create cutting-edge solutions to face complex challenges. 👨‍💻</p></li>
+<li><p>I specialize in back-end development with Node.js, TypeScript, and AWS, designing REST and GraphQL APIs, and applying solid engineering principles to create reliable solutions. I also bring full-stack versatility with React, and working knowledge of Python, Java, and Go. ⌨️</p></li>
+<li><p> Highlights of my journey include ranking in 3rd place out of 9,300 in Hackathon Decola, which led to joining Iteris’s professional development program, and working on the project that made Nutrien win Best Credit Project at the Conacredi Awards 2023. 👨‍💻</p></li>
+<li><p> I’m passionate about writing clean, testable code, solving complex problems, and collaborating with diverse teams to deliver business impact.</p></li>
 
 </ul>
 <h1>My top tools and technologies</h1>
