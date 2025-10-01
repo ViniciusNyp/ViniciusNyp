@@ -50,12 +50,6 @@
 
   <img align="center" alt="aws" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
-  <img align="center" alt="golang" height="75" width="75" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
-
-  <img align="center" alt="python" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"> 
-
-  <img align="center" alt="java" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> 
-
   <img align="center" alt="linux" height="50" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   
   
