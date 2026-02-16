@@ -1,6 +1,6 @@
 <h1>Hi, I'm Vinícius! 👋</h1>
 
-<p>A Full Stack Software Engineer with strong experience in building scalable, efficient, and resilient systems. 👨‍💻</p>
+<p>A Backend-Focused Full Stack Engineer  with strong experience in building scalable, efficient, and resilient systems. 👨‍💻</p>
 
 <div style="display: inline_block"><br>
 
@@ -13,9 +13,9 @@
 
 <ul>
 
-<li><p>I specialize in back-end development with Node.js, TypeScript, and AWS, designing REST and GraphQL APIs, and applying solid engineering principles to create reliable solutions. I also bring full-stack versatility with React, and working knowledge of Python, Java, and Go. ⌨️</p></li>
-<li><p> Highlights of my journey include ranking in 3rd place out of 9,300 in Hackathon Decola, which led to joining Iteris’s professional development program, and working on the project that made Nutrien win Best Credit Project at the Conacredi Awards 2023. 👨‍💻</p></li>
-<li><p> I’m passionate about writing clean, testable code, solving complex problems, and collaborating with diverse teams to deliver business impact.</p></li>
+<li><p>I’ve been working on financial platforms ranging from credit systems to AI-native ERP and commercial card solutions. I enjoy building systems that balance flexibility, performance, and reliability. Especially when technical decisions directly impact business outcomes. ⌨️</p></li>
+<li><p> Highlights include reducing a credit application process from 30+ days to 7 through automation, and designing a scalable data extension model for a multi-tenant ERP that enables client-specific financial customization without compromising core performance. 👨‍💻</p></li>
+<li><p> While I’m comfortable across the stack, I naturally gravitate toward backend challenges and system design discussions. I care about clean architecture, thoughtful trade-offs, and building software that scales without becoming fragile.</p></li>
 
 </ul>
 <h1>My top tools and technologies</h1>
